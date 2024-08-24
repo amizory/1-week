@@ -3,6 +3,9 @@
         "корректируемость",
         "тестировщиками",
         "Kanban",
-        "SDLC"
+        "oneline",
+        "reflog",
+        "SDLC",
+        "shortlog"
     ]
 }
